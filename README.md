@@ -3,7 +3,7 @@ In this project, I developed a neural network in Python without any frameworks, 
 Besides, I trained the model in the MNIST dataset and finally tested its accuracy. The whole code is in the Jupyter notebook `mnist.py`.
 
 <div style="width: 100%; text-align: center;" align="center">
-<img src="./image.png">
+  <img style="height: 300px;" src="./image.png">
 </div>
 
 ## Project
